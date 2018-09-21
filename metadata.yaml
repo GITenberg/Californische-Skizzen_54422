@@ -1,0 +1,27 @@
+_repo: Californische-Skizzen_54422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2017-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54422'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Californische Skizzen
+url: http://www.gutenberg.org/ebooks/54422
